@@ -5,7 +5,7 @@
 
 Projeto construído para o meu primeiro cliente, site voltado para a apresentação geral da empresa e dos meios de contato para solicitar orçamentos.
 
-[Clique aqui para acessar] (tomtommontagens.netlify.app)
+[Clique aqui para acessar] (https://tomtommontagens.netlify.app)
 
 ## 🛠 👨‍💻 Tecnologias
 
